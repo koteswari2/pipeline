@@ -1,0 +1,4 @@
+[remote]
+3.135.185.44
+
+controlmachine ansible_connection=local
