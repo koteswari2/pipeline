@@ -1,4 +1,4 @@
 [remote]
-3.135.185.44
+3.135.185.44 ansible_user=root
 
 controlmachine ansible_connection=local
